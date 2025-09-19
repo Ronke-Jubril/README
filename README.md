@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Ronke Jubril  
 ### Frontend Developer in Progress | Economics Enthusiast  
 
-I'm passionate about building clean, accessible, and responsive websites, while steadily improving my technical and problem-solving skills. My current focus is on strengthening my foundation with **HTML**, **CSS**, and **JavaScript**, and applying what I learn through hands-on projects.
+I'm passionate about building clean, accessible, and responsive websites, while steadily improving my technical and problem-solving skills. My current focus is on strengthening my foundation with **HTML**, **CSS**, and **JavaScript**, and applying what I learn through hands on projects.
 
-As I prepare for university to study **Economics**, I'm also exploring the exciting world of tech — learning, building, and working towards projects I'm looking forward to sharing soon.
+As I prepare for university to study **Economics**, I'm also exploring the exciting world of tech. Learning, building, and working towards projects I'm looking forward to sharing soon.
 
 ---
 
@@ -19,13 +19,13 @@ As I prepare for university to study **Economics**, I'm also exploring the excit
 - Strengthen my understanding of JavaScript  
 - Build focused web projects to sharpen layout and interactivity skills  
 - Improve version control workflows with Git and GitHub  
-- Develop strong problem-solving habits through consistent practice  
+- Develop strong problem solving habits through consistent practice  
 
 ---
 
 ### 🎯 Long-Term Goal  
 To make a meaningful impact in the tech space by working with innovative startups — building solutions that matter, contributing to teams that challenge the status quo, and one day helping shape products that take the world by storm.  
-I also aim to grow beyond frontend into **full-stack development**, and explore other areas of tech — constantly evolving my skills to stay curious, adaptable, and ready for new challenges.
+I also aim to grow beyond frontend into **full-stack development**, and explore other areas of tech, constantly evolving my skills to stay curious, adaptable, and ready for new challenges.
 
 ---
 
